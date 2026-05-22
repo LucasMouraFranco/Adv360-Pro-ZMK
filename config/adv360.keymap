@@ -27,11 +27,11 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp EQUAL  &kp N1        &kp N2    &kp N3            &kp N4            &kp N5  &tog 1                                                                                               &mo 3          &kp N6  &kp N7       &kp N8         &kp N9    &kp N0    &kp MINUS
-&kp TAB    &kp Q         &kp W     &kp E             &kp R             &kp T   &kp LS(LG(G))                                                                                        &kp LS(LG(V))  &kp Y   &kp U        &kp I          &kp O     &kp P     &kp BSLH
-&kp ESC    &kp A         &kp S     &kp D             &kp F             &kp G   &kp LS(LG(NUMBER_4))  &kp GRAVE      &none                     &none                  &kp RIGHT_ALT  &kp LG(SPACE)  &kp H   &kp J        &kp K          &kp L     &kp SEMI  &kp SQT
-&kp LSHFT  &kp Z         &kp X     &kp C             &kp V             &kp B                                        &mt LEFT_COMMAND TAB      &mt RIGHT_COMMAND TAB                                &kp N   &kp M        &kp COMMA      &kp DOT   &kp FSLH  &kp RSHFT
-&mo 2      &kp LEFT_ALT  &kp CAPS  &kp LEFT_CONTROL  &kp LEFT_COMMAND          &lt 2 DELETE          &kp BACKSPACE  &kp LEFT_CONTROL          &kp LEFT_CONTROL       &kp SPACE      &kp ENTER              &kp PAGE_UP  &kp PAGE_DOWN  &kp LBKT  &kp RBKT  &mo 2
+&kp EQUAL  &kp N1        &kp N2    &kp N3            &kp N4            &kp N5  &tog 1                                                                                              &mo 3          &kp N6  &kp N7       &kp N8         &kp N9    &kp N0    &kp MINUS
+&kp TAB    &kp Q         &kp W     &kp E             &kp R             &kp T   &kp LS(LG(G))                                                                                       &kp LS(LG(V))  &kp Y   &kp U        &kp I          &kp O     &kp P     &kp BSLH
+&kp ESC    &kp A         &kp S     &kp D             &kp F             &kp G   &kp LS(LG(NUMBER_4))  &kp GRAVE     &none                     &none                  &kp RIGHT_ALT  &kp LG(SPACE)  &kp H   &kp J        &kp K          &kp L     &kp SEMI  &kp SQT
+&kp LSHFT  &kp Z         &kp X     &kp C             &kp V             &kp B                                       &mt LEFT_COMMAND TAB      &mt RIGHT_COMMAND TAB                                &kp N   &kp M        &kp COMMA      &kp DOT   &kp FSLH  &kp RSHFT
+&mo 2      &kp LEFT_ALT  &kp CAPS  &kp LEFT_CONTROL  &kp LEFT_COMMAND          &kp BACKSPACE         &lt 2 DELETE  &kp LEFT_CONTROL          &kp LEFT_CONTROL       &kp ENTER      &kp SPACE              &kp PAGE_UP  &kp PAGE_DOWN  &kp LBKT  &kp RBKT  &mo 2
             >;
         };
 
